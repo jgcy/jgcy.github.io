@@ -7,6 +7,7 @@ authorTwitter: http://twitter.com/mhartl
 gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
+[The Alchemist](https://www.amazon.com/gp/offer-listing/0062315005/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062315005&linkCode=am2&tag=aud77-20&linkId=507019eef561f9d760325c6f755b9faf)
 
 Call me *Ishmael*. Some years ago–*never mind how long
 precisely*–having little or no money in my purse, and nothing
